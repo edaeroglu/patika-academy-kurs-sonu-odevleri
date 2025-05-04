@@ -1,1 +1,1 @@
-Patika.dev Python Temel kursunun proje ödevidir.
+Academy Patika.dev eğitimlerinin kurs sonu ödevlerini içermektedir.
